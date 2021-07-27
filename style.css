@@ -13,3 +13,188 @@ button, a, h1,h2,h3,h4,h5,h6{
 p{
     color: #8491A0 !important;
 }
+
+
+/* Navigation start */
+#header{
+    height: 800px;
+    position: relative;
+}
+
+#header::after{
+    content: "";
+    width: 67%;
+    height: 100%;
+    background-color: #181823;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -56;
+}
+
+#nav-ul>li>a{
+    transition: all 0.2s ease;
+}
+
+#nav-ul>li>a:hover{
+    background-color: #5221E6;
+}
+
+/* Hero section start */
+#hero-container{
+}
+
+#hero-main{
+    width: 100%;
+    max-width: 1920px;
+    height: 100%;
+    position: relative;
+}
+#hero-left{
+    width: 55%;
+    position: absolute;
+    left: 0;
+}
+
+#hero-right{
+    width: 55%;
+    position: absolute;
+    right: 0;
+    top: 165px;
+}
+
+#hero-right h1{
+    font-size: 4.7rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
